@@ -1,0 +1,8 @@
+asyncio
+pyrogram
+pyromod
+python-dotenv
+hachoir
+html_telegraph_poster
+TgCrypto
+aiohttp
